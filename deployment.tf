@@ -9,4 +9,6 @@ cpu = "256"
 role_arn= "arn:aws:iam::335871625378:role/ecsTaskExecutionRole"
 deployment_group = "ecs-dg"
 service_name = "app-service"
+}
+
 
